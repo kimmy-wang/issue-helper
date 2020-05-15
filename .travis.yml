@@ -19,7 +19,6 @@ script:
 
 deploy:
   provider: pages
-  target_branch: master
   email: upcwangying@126.com
   name: upcwangying
   skip_cleanup: true
