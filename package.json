@@ -15,7 +15,7 @@
         "compare-versions": "^3.3.0",
         "copy-to-clipboard": "^3.0.8",
         "marked": "^0.3.6",
-        "qs": "^6.5.1",
+        "qs": "^6.6.1",
         "remarkable": "^1.7.1",
         "vue": "^2.5.13",
         "ant-design-vue": "^1.0.2",
